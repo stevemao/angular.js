@@ -88,7 +88,7 @@ function urlResolve(url) {
       : '/' + urlParsingNode.pathname
   };
 }
-
+test
 /**
  * Parse a request URL and determine whether this is a same-origin request as the application document.
  *
