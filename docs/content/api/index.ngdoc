@@ -23,7 +23,7 @@ Please do not use the `$` or `$$` prefix in your code.
 This module is provided by default and contains the core components of AngularJS.
 
 <table class="definition-table spaced">
-  <tr>
+  <tr>test
     <td>{@link ng#directive Directives}</td>
     <td>
       <p>
